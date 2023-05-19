@@ -1,106 +1,39 @@
+h2 {
+  color: #F30570;
+  text-align: center;
+  letter-spacing: 1px;
+}
+h5 {
+  text-align: center;
+   letter-spacing: .5px;
+}
 body {
- <ul> 
-    <li><a href="#home">Home</a></li>
-    <li><a href="#classes">Veggies/Fruits</a> </li>
-    <li><a href="#cupcakes">Veggies/Fruits and Where they come from </a>  </li>
-       
-  </ul>
+  background-color: aliceblue;
+}
+img {
+  width: 500px;
   
+    
+}
+img:hover {
+  border: dashed blue 3px;
+    border-radius: 50%;
+}
+  nav {
+    list-stle-type: none;
+    background-color: white;
+    top:0;
+    left:0;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+li{
+    display: inline;
+    padding: 10px;
   
-  <br>
-  <br>
-  <h1> Noun Topic Project</h1> 
-  <table align="center" id="classes">
-    <tr>
-      <th> Fruit </th>
-      <th> Veggie </th>
-      <th> Origination </th>
-    </tr>
     
-   <tr> 
-     <td> Strawberry </td>
-     <td> Tomato </td>
-     <td> Europe </td>
-    </tr>
-    
-    <tr> 
-     <td> Human Bio </td>
-     <td> Dixon </td>
-     <td> A- </td>
-    </tr>
-    
-    <tr> 
-     <td> ENS </td>
-     <td> Champoux </td>
-     <td> C </td>
-    </tr>
-    
-    <tr> 
-     <td> Geology </td>
-     <td> Christopher </td>
-     <td> B </td>
-    </tr> 
-  </table>  
-  <br> 
-<p style="text-align:center;">  <a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/"">More Info About Food</a>
-
-  </p>
-
-  <p id="cupcakes">
+  }
   
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLxI0Vnp8pCx1qMSKWnpBsn1PVFborXS1def4NykzCaaHrFBsD2GvB20MhjRsmZyUfBA:https://i.ytimg.com/vi/mUqwKequriw/maxresdefault.jpg&usqp=CAU">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM_wJm7nJ_8Nf3iXQKfAoBz0Q3FhWZMvEPbebbFmOchN5dt1hWFdBhcFrPMsKXmZ19Js:https://www.cdc.gov/healthyweight/images/healthy-eating/fruit-veggies-600x300.jpg&usqp=CAU" width=400px;> </p>
-  
-
-    
-  
-  
-  
-</body>
- 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <center>
-    <h2> Food and Where They Come From</h2>
-
- <table>
-  <tr>
-     <center>
-    <th>Fruits</th>
-    <th>Vegtables</th>
-    <th>Origination</th>
-  </tr>
-  <tr>
-    
-    <td>Strawberry</td>
-    <td>Tomato</td>
-    <td>Europe</td>
-  </tr>
-  <tr>
-    <td>Lychee</td>
-    <td>Squash</td>
-    <td>Asia</td>
-  </tr>
-  <h1> Food </h1>
-  <h2> Noun Topic</h1>
-    <center>
-    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEr9bX81Ap_PuI2rzbMOsEn1rDPlfMvhwe1lmM-7IwhDXeYFdito-oRJKsRorocjiMV9M:https://cdn.mos.cms.futurecdn.net/XM8scaSf7gWsiN9jjowikf.jpg&usqp=CAU"
-</body>
-</html>
-   <html>
-   <head>
-      <title>HTML a Tag</title>
-   </head>
-   <body>
-    
-      <p>This is a link to <a href = "https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/"> To View Vegtables and Fruits
-       
-   </body>
-</html>
 }
